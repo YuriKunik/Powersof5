@@ -1,2 +1,2 @@
 # Powersof5
-Shows the sequences of the digits in the powers of 5 
+Shows the sequences in the digits of the powers of 5 
