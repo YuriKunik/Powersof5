@@ -2,6 +2,8 @@ base = 5
 numero_potencias = 1000
 lista_numeros = []
 
+
+
 for i in range(0, numero_potencias):
     lista_numeros.append(list(str(base**i)))
 while(True):
